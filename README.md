@@ -1,4 +1,4 @@
-# Data-governance
+# Data-Governance
 Data governance module 
 
 Data governance is focused on people and their behaviors 
