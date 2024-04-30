@@ -1,5 +1,5 @@
-# Data-governance Acc
-data governance module 
+# Data-governance
+Data governance module 
 
 Data governance is focused on people and their behaviors 
 
