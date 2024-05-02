@@ -223,5 +223,25 @@ Data that is never used is about as useful as producing reports that nobody read
 * Ownership ranges fom light oversight to legally enforceable rules,especially concerning intellectual property like copyrights and trade secrets
 * Accountability for every data set within an organization is crucial for effective management and decision making
 
- ## DATA ARCHITECTURE
-* ownership determines the accessibility rights and usage permissions,defining who can use the data and for what purposes
+## DATA ARCHITECTURE
+* Data Architecture is a subset of enterprise architecture(EA) and focuses on designing and managing data to     
+ align with the organization's business strategy.
+* It serves as blueprint for how data supports organizational functions and technologies
+* High -quality data architecture facilitates smoother organizational operations and enables successful digital transformations
+* Key considerations of data architecture include ensuring data availability ,reducing complexity in data access,enforcing data protections ,adopting data standards ,and optimizing dara fow efficiency
+* Data architecture reflects data governance practices ,indicating an organization's value for data as a critical business asset and its alignment with business needs.
+* Data architecture is not solely a technical concern but a cross organization responsibilility ,facilitating efficient data flow across various business silos and serving multiple audiences in diverse forms
+
+**At a minimum, data architecture considers and typically supports the following:**
+1. Ensuring data is available to those who need it and are approved to use it
+2. Reducing the complexity of accessing and utilizing data
+3. Creating and enforcing data protections to support organnizational policies and obligations
+4. Adopting and agreeing data standards
+5. Optimizing the flow and efficient use of data to eliminate bottlenecks and duplication
+
+Data architecture is direct reflection of data governance ,An established and functioning data architecture immediately signals that an organization values data
+
+## THE LIFECYCLE OF DATA
+![Screenshot 2024-05-02 115625](https://github.com/BafanaMadume/data-governanceBafana-/assets/141032267/9629ec53-59e5-4d1e-977d-5eb04fae6f62)
+
+1. **``Creation``** =  stage at which data comes into being ,it may be manual or automated and get created internally or externally .Data is created all the time by a vast number of activities that include system inputs and outputs
