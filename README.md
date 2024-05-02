@@ -293,3 +293,47 @@ Data architecture is direct reflection of data governance ,An established and fu
 *Point of Collection: Smart data solutions are often applied at the point of data collection, enhancing efficiency and effectiveness compared to post-processing approaches.
 
 *Value of Data: In the 21st century, all forms of data, whether big, small, or smart, can have value, emphasizing the importance of data governance across various data types.
+
+# Chapter 3 
+## Driving Value Through Data 
+
+### Chapter outlier 
+* Identifying many roles data plays in organizations
+* Delivering insight from data
+* Recognizing that data is an asset
+* Exploring four approaches to data analytics
+
+## Identifying the roles of Data
+
+### OPERATIONS
+Business operations concern themselves with a diverse set of activities to run the day-to-day needs and drive the mission of an organization. Each business has different needs, and operational functions reflect these specific requirements. 
+* Operations use data to make decisions, enable systems to run, and deliver data to internal and external entities
+
+* **Core Operational** Functions: Business operations encompass various activities tailored to the specific needs of an organization, such as payroll, order management, and marketing.
+* **Data Creation and Utilization:** Operations generate and utilize vast amounts of data for decision-making, system functionality, and communication with internal and external stakeholders.
+* **Quantification of Performance:** Data enables the quantification of operational performance, allowing for insights into metrics like job openings, hiring duration, and applicant acceptance rates.
+
+* **Automated Data Functions:** Many operational data functions are automated, such as warehouse inventory systems generating replenishment orders based on stock levels or automated notifications for time and expense reports.
+* **Skilled People, Processes, and Technologies:** Operational data management involves skilled personnel, dedicated processes, and various technologies focused on handling and leveraging operational data effectively.
+
+* Operations use data to make decisions, enable systems to run, and deliver data to internal and external entities.
+
+### STRATEGY
+Every organization has a strategy, whether it’s articulated overtly or not. At the organizational level, this is about creating a plan that supports objectives and goals.
+* **``Strategy leads``** to implementation and requires the support of operations to realize its goals. In this way, strategy and operations are two sides of the same coin.
+* Creating a strategy typically comes down to a core set of activities. It begins with an analysis of the environment followed by some conclusions on what has been gathered.
+
+* **``Strategy Development``**: Every organization, department, or division has a strategy aimed at achieving objectives and goals. It involves understanding challenges, proposing solutions, and creating plans.
+  
+* **``Relationship between Strategy and Operations``**: Strategy and operations are interconnected, with operational excellence essential for realizing strategic goals. A data-driven strategy combined with operational efficiency can lead to success.
+  
+* **``Core Activities of Strategy Creation``**: Strategy development involves analyzing the environment, drawing conclusions, and creating plans guided by principles derived from various factors.
+Role of Data: Good quality data is crucial for strategy development, providing the foundation for processing, analysis, and actionable insights.
+
+* **``Incorporating Multiple Perspectives``**: While data is essential, other perspectives, including experiential knowledge, must also be considered in strategy development to ensure a balanced approach.
+  
+* **``Ongoing Strategy Development``**: Strategy development is an ongoing process, with periodic revisions based on new data and insights to adapt to changing environmental conditions.
+  
+* **``Importance of Data in Reaction System:``** In the 21st century, organizations need to react quickly to environmental changes, with data forming the backbone of their response systems.
+
+*  A best practice for strategy development is to consider it an ongoing process.,In the 21st century, organizations need to react quickly to environmental conditions to survive. Data will form the backbone of your response system.
