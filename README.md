@@ -245,3 +245,51 @@ Data architecture is direct reflection of data governance ,An established and fu
 ![Screenshot 2024-05-02 115625](https://github.com/BafanaMadume/data-governanceBafana-/assets/141032267/9629ec53-59e5-4d1e-977d-5eb04fae6f62)
 
 1. **``Creation``** =  stage at which data comes into being ,it may be manual or automated and get created internally or externally .Data is created all the time by a vast number of activities that include system inputs and outputs
+
+2. **``Storage``** = once data is created and assuming you want it available for later use,it must be stored .it most likely will be contained and managed in a database.The database needs a home ,too,as a local hard ,server ,or cloud service
+
+3. **``Usage``** =  Data is captured and stored with the intention of utilizing it, possibly for analysis. It may require processing, such as error cleansing, format transformation, and access rights security.
+
+4. **``Archival``** =  Unused data is identified and moved to long-term storage outside the production environment for potential future retrieval and utilization.
+
+5. **``Destruction``** = At a logical point or as required by regulations or policies, data is made inaccessible and unreadable, sometimes involving physical destruction of devices like hard drives.
+
+## UNDERSTANDING THE IMPACT OF BIG DATA
+* Data has been captured and stored in analog forms for millennia, such as the Romans using ledgers.
+* Technological advancements driven by events like the Cold War and the space race led to innovations in computing and telecommunications
+* The U.S. Census played a significant role in the origin of data processing, leading to the automation of tabulating census results by companies like the Tabulating Machine Company, later known as IBM.
+* Punch cards were used as a form of data storage, allowing for automated counting and processing of census data.
+* IBM and other data processing companies began to automate various aspects of life, leading to increased productivity across multiple sectors.
+* These developments led to the information age, marking the third industrial revolution, characterized by the widespread use of data as a raw material for productivity and innovation.
+* Connectivity facilitated the free flow of information across devices, organizations, and geographies, leading to an explosion in data creation, storage, and usage.
+* The sheer volume and velocity of data created a challenge known as "big data," where traditional software applications struggled to manage the vast amounts of data generated.
+
+## DEFINING BIG DATA
+
+ Big  data is structured and unstructured data is so massive and complex in scale,that it's difficult and often impossible and often impossible to process via traditional data management techniques
+
+ ### Defining Big Data
+
+ * **``Volume``**= sheer scale of data being produced is unprecendented and requires new tools ,skills and processes
+ * **``Variety``** = lots of legacy file formats ,such as CSV and MP3 and with new innovations ,new formats are emerging all the time .This requires different methods of handling ,from analysis to security
+ * **``Velocity``** = Data creation and movement occur at high speeds due to numerous collection points, digital interfaces, and widespread connectivity. For instance, Instagram users share 65,000 pictures per minute in 2021.
+ * **``Variablity``** = Data creation and flow are unpredictable ,leading to variability in data patterns and sources
+ * **``Veracity``** = The quality of large volumes of disperate data sets varies ,posing challenges to data management ,including accuracy and truthfulness
+
+### Consequences of Big Data
+
+* ``DATA QUALITY``: Up to 80% of data is unstructured, presenting challenges for organizations in terms of analysis and accessibility. Duplicative and erroneous data further complicate matters
+* ``Value and Innovation``: Despite challenges, big data provides significant value to organizations and drives remarkable innovation, such as self-driving cars and optimized supply chains.
+* ``Advertising Effectiveness``: Big data revolutionizes advertising by enabling marketers to understand the marketplace in granular detail, target specific audiences or individuals, and optimize advertising efforts for higher sales conversion rates.
+
+## Enter the Realm of Smart Data
+
+* ``Smart Data Definition``: Smart data refers to optimized big data that has been prepared for specific uses to deliver maximum business value, overcoming challenges of volume, velocity, and variety.
+  
+* ``Utilization``: Smart data enables precision targeting in marketing, real-time analytics in manufacturing, and other tailored applications by applying processes to extract relevant insights.
+  
+* ``AI Integration``: Artificial intelligence is increasingly used to analyze unstructured big data, identifying patterns and extracting relevant information with reduced time and errors, facilitating the creation of previously inaccessible data subsets.
+  
+*Point of Collection: Smart data solutions are often applied at the point of data collection, enhancing efficiency and effectiveness compared to post-processing approaches.
+
+*Value of Data: In the 21st century, all forms of data, whether big, small, or smart, can have value, emphasizing the importance of data governance across various data types.
