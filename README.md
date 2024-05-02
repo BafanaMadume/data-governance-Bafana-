@@ -169,4 +169,59 @@ Steps for designing and creating a data governance program
 * **Legal and Compliance Support:** Legal and compliance teams need to understand and support the program's goals.
 * **Data Skills:** Basic data skills are necessary within the organization.
 * **IT Capability:** The IT organization must be equipped to support the program.
+### DEFINING DATA 
 
+Data refers to collections of digitally stored units ,The units represents something meaningful when processed for a human or a computer 
+* Single units of data are refered to as ``datum`` and multiple units as ``data``
+* Data is also defined based on its captured format 
+- **``Structured``** : Data that has been **formatted to a set  structure**;each data unit fits nicely into a table in a database and it's ready for analysis.E.G **First name,Last name and phone number**
+- **``Unstructured``** : Data that are stored in a native format must be processed to be used.More work is required to enable analysis.E.G **email content and social media posts**
+- **``Semi-Structured``**: Data that contains additional information to enable the native format to be searched and analyzed 
+
+* Units of data are largely worthless until they are processed and applied .It's only then data begins a journey that ,when coupled with good governance and be very useful
+
+#### ZETTABYTE ERA
+Today, we live in the zettabyte era. A zettabyte is a big number. A really big number. It’s 1021, or a 1 with 21 zeros after it. It looks like this: 1,000,000,000,000,000,000,000 bytes.
+
+* Simplified technical explanation of what a zettabyte is,each byte is made up of eight bits.
+![Screenshot 2024-05-02 095302](https://github.com/BafanaMadume/data-governance-Bafana-/assets/141032267/650ec3dd-36b4-4f9c-bb53-8c7050b7c68d).
+
+![Screenshot 2024-05-02 100050](https://github.com/BafanaMadume/data-governance-Bafana-/assets/141032267/bd6015a6-33c1-4bb3-88bd-a1fd334cb122)
+
+### FROM DATA TO INSIGHT
+Data that is never used is about as useful as producing reports that nobody reads .Assumption that you have data for a reason
+
+![Screenshot 2024-05-02 100527](https://github.com/BafanaMadume/data-governance-Bafana-/assets/141032267/9a0c088b-f6c7-4fa5-ace8-02c4588babef)
+
+### DATA_INFORMATION-KNOWLEDGE-WISDOM (DIKW)
+
+![Screenshot 2024-05-02 101246](https://github.com/BafanaMadume/data-governance-Bafana-/assets/141032267/8212297b-a85f-4f31-9e1c-f063436dd313)
+
+## ROLE OF DATA IN THE 21st CENTURY
+* Data has played significant roles in understanding the world,making informed decisions and problem-solving since the 19th century
+* The quantity, quality, and availability of data have expanded rapidly, with the internet making information easily accessible.
+* The depth, breadth, and quality of data are transforming how we learn, socialize, and entertain ourselves.
+* Data's importance has elevated risks, with cyberattacks resulting in significant financial losses.
+
+## Data-Driven Decision-Making
+* Data aids decision -making by providing valuable insights ,as seen in customer reviews influencing restaurant choice
+* Data -driven decisons vary in complexity;complexity ;choosing a restaurant based on reviews is simpler than entering a new market
+* Market entry decisions require rich datasets for informed decisions choices ;without proper data analysis,costly mistakes can occur
+* Abundant ,high quality data is crucial for effective decision-making in the 21st century
+* Data governance is essential for ensuring data quality ,highlighting the importance of deliberate actions in maintaining data integrity.
+
+## Data As The New Oil
+* Clive Humby's analogy of  "data is the new oil" emphasizes the economic significance o data in the 21st century
+* Just like oil ,data requires processing and analysis to unlock its value and usefulness
+* Data powers digital economies with major firms like Facebook and google dominating through data driven-driven operations
+* Industries across sectors are being transformed by digitalization and data utilization, shifting data management from cost centers to profit centers.
+* Control over valuable data confers disproportionate power, raising concerns about centralized management by a few large entities.
+
+## DATA OWNERSHIP
+* Data ownership describes the rights a person, team, or organization has over one or more data sets. These rights may span from lightweight oversight and control to rigorous rules that are legally enforceable. 
+* Data ownership entails the responsiblity and rights held by individuas,teams or organizations over specific data sets
+* Ownership ranges fom light oversight to legally enforceable rules,especially concerning intellectual property like copyrights and trade secrets
+* Accountability for every data set within an organization is crucial for effective management and decision making
+
+ ## DATA ARCHITECTURE
+* ownership determines the accessibility rights and usage permissions,defining who can use the data and for what purposes
