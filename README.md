@@ -395,3 +395,64 @@ Here are some of the benefits of effective insight management:
 * Improved customer satisfaction: By using data to understand customer needs and preferences, organizations can provide a better customer experience.
 
 Overall, insight management is a critical process for any organization that wants to make data-driven decisions and improve its bottom line.░
+
+### REPORTING 
+
+## Key Points about Reporting in Business
+
+* **Importance:** Reports are considered fundamental functions, some even say the backbone, of any organization. They serve as a structured way to present data and information. 
+* **Content:** Reports can be summaries or detailed analyses, depending on the audience and purpose. They should include relevant information, such as expenditure lists or sales figures. Visuals like charts are popular for easier data interpretation. 
+* **Format:** Reports can be physical (printed) or digital (online). They can also be delivered verbally (presentations) or visually (videos). The format is less important than achieving the report's objective. 
+* **Purpose:** The primary purpose of reporting is to facilitate better decision-making. By presenting the right information in the right format and at the right time, reports empower leaders to make informed choices, solve problems, and communicate plans effectively. 
+* **Limitations:**  While reports are valuable tools, they don't guarantee good decisions. Having access to information doesn't automatically translate to making the best choices at the right time.
+* Reports are typically online or physical presentations of data and information on some aspect of an organization
+* While reports do empower leaders and give them more tools, they don’t guarantee the right decisions. Knowing something is not the equivalent of making the right choices at the right time.
+
+### OTHER ROLES FOR DATA
+
+1. **Fueling AI:**  Data is like the gasoline for Artificial Intelligence (AI). The more high-quality data AI has, the better it performs. By analyzing massive amounts of data, AI can find patterns, relationships, and probabilities. Interestingly, AI is also being used to improve how data is used within organizations.
+
+2. **Problem-Solving Powerhouse:** Data isn't just for making decisions, it's crucial for the entire problem-solving process.  Data helps define problems, identify potential solutions, choose the best approach, and measure the success of the chosen solution.
+
+3. **Data with Many Lives: Data Reuse:**  Data collected for one purpose can often be a goldmine for entirely different uses. Once collected, used, and stored, data can be accessed by other teams, with proper permissions of course. For instance, customer data collected by sales to fulfill orders might be reused by marketing to target them with relevant promotions. Reusing data avoids unnecessary collection and stretches its value within the organization. However, careful management is needed to ensure data reuse complies with regulations and privacy policies. High-value, frequently reused datasets are called master data and receive special attention in data governance practices.
+
+## IMPROVING OUTCOMES WITH DATA
+
+1. **Treat Data as an Asset:**  A fundamental shift needs to happen where data is viewed as a valuable resource, similar to property or equipment. This reframing encourages better data management practices.
+
+2. **Leverage Data Analytics:**  Extracting insights from data is crucial. Data analytics, the process of analyzing data to uncover hidden patterns and trends, requires skilled professionals and advanced tools. The rise of big data has amplified the importance of data analytics for businesses.
+
+## APPROACHING DATA AS AN ASSET
+* Asset is something that is owned by a person ,organization ,or a government with the expectation that it can bring
+* Listing the value of assets presents the true state of any organization and reflects its financial health. In addition, capturing and valuing assets is required for determining tax obligations and for acquiring loans.
+* After it is processed from its raw form, data has the potential to create enormous economic value for all manner of stakeholders. Here are some examples of the economic value of data
+  - improves operations
+  - increases existing revenue
+  - Produces new forms of revenue
+  - Builds relationships with customer and other stakeholders
+  - improves the quality of products and services
+  - contributions to competitve adfvantange
+  - enables innovation
+  - Reduces risk
+
+ * Recognizing that data is an asset is the first step to good data governance
+ * Data is an asset and for its value to be leverage ,it must be governed .This  may be one of the most important motivations for good data governance.
+
+## DATA ANALYTICS
+The process os examining data in order to produce answers or find conclusions is called data analytics
+* The process of data analytics is varied depending on resources and context but generally follows steps.
+
+![Screenshot 2024-05-03 110113](https://github.com/BafanaMadume/data-governance-Bafana-/assets/141032267/c0d690b9-bf02-4cb7-a055-bc9af27d4a08)
+
+
+1. **Descriptive Analytics (Simplest, Least Valuable):** This involves analyzing past data to understand what happened with regards to a specific metric (KPI) or business goal. It provides insights into historical performance.
+
+2. **Diagnostic Analytics (More Complex, More Valuable):**  As the name suggests, this type goes beyond "what" and digs into "why." It uses descriptive analysis as a foundation to identify the root causes behind past events.
+
+3. **Predictive Analytics (More Complex, Highly Valuable):** Here, data analysts use various techniques to forecast what might happen in the future. They leverage historical data and trends to predict the likelihood of certain outcomes. 
+
+4. **Prescriptive Analytics (Most Complex, Most Valuable):** This advanced form of analytics focuses on recommending specific actions to take. It combines insights from predictive analytics to estimate the probabilities of different future scenarios and suggests the most optimal course of action.
+
+![Screenshot 2024-05-03 111442](https://github.com/BafanaMadume/data-governance-Bafana-/assets/141032267/47590c6b-3d91-434b-95d2-d5d00f192d8a)
+
+* Data analytics involves the use of a variety of software tools depending on the needs, complexities, and skills of the analyst. Beyond your favorite spreadsheet program, which can deliver a lot of capabilities, data analysts use products such as R, Python, Tableau, Power BI, QlikView, and others.
